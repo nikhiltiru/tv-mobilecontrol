@@ -1,0 +1,7 @@
+<resources>
+    <dimen name="devicelist_list_view_width">206dp</dimen>
+    <dimen name="devicelist_list_view_height">295dp</dimen>
+    <dimen name="device_list_item_height">40dp</dimen>
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+</resources>
