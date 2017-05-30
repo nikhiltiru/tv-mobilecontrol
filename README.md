@@ -111,6 +111,8 @@ public boolean onCreateOptionsMenu(Menu menu) {
 9. For rest of the steps, refer:
 https://codelabs.developers.google.com/codelabs/cast-videos-android/#5
 
+After all the above changes, the finished project can be found at https://github.com/nikhiltiru/tv-mobilecontrol-cast
+
 
 ## References
 
