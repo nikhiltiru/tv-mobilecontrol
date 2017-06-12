@@ -12,7 +12,7 @@ The NSD and Cast related codes are taken from below references and modified a bi
 Go through the app/src/main/java/com/example/android/nsdchatclient/NsdHelper.java and app/src/main/java/com/example/android/nsdchatclient/ChatConnection.java files for better understanding.
 
 Please note that error and exception handling is not exhaustive. So watch out for crashes and errors.
-Tested this on Nexus Player and Sony Bravia TV.
+Tested this on Nexus Player and Sony BRAVIA TV.
 
 ## NSD
 NSD stands for Network Service Discovery. Please see [this][NSD] link for more info:
